@@ -1,6 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+<meta name="google-site-verification" content="zEvBEeUqxsI8nRQST_nJ35Bu4qQ7iDRlIFDV84K7CAk" />
+<meta name="msvalidate.01" content="739245F5D54BCBF40AC056DC0CBF5710" />
+<!-- Start of  Zendesk Widget script -->
+<script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=7668c976-0fb7-47ee-8740-3e9115bdb10f"> </script>
+<!-- End of  Zendesk Widget script -->
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="description" content="Learn how to login to your LastPass account. Get help with account access, recovery, and contact LastPass customer support for troubleshooting.">
